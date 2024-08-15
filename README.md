@@ -1,4 +1,5 @@
-**Installation Instructions**
+**Installation Instructions :**
+
 Follow these steps to set up the project:
 
 Clone the Repository (if applicable):
@@ -19,6 +20,6 @@ Execute the main script to start the hand detection process:
   
 This will open your default webcam and start displaying the video feed with hand landmarks drawn.
 
-**Stop the Application:**
+**Stop the Application :**
 
 To stop the application, simply press the 'a' key while the video feed window is active.
